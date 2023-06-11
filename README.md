@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nisha508
-- 👀 I’m interested in Data Science Analytics and A.I.
+- 👀 I’m interested in Data Analysis and Machine Learning.
 - 🌱 I’m currently learning how to solve complex problems in Data science.
 
 
